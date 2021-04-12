@@ -1,0 +1,144 @@
+{
+    "Mobiles": [
+      {
+          "id": 1, "image_address": "https://m.media-amazon.com/images/I/71tT8J5cKuL._AC_UY218_.jpg", "rate": "68,900", "description": "Oppo A31 (Mystery Black, 6GB RAM, 128GB Storage) with No Cost EMI/Additional Exchange Offers"
+      },
+      {
+          "id": 2, "image_address": "https://m.media-amazon.com/images/I/71Lx9l3NivL._AC_UY218_.jpg", "rate": "29,999", "description": "Oppo A31 (Mystery Black, 6GB RAM, 128GB Storage) with No Cost EMI/Additional Exchange Offers"
+      },
+      {
+          "id": 3, "image_address": "https://m.media-amazon.com/images/I/71sxlhYhKWL._AC_UY218_.jpg", "rate": "6,799", "description": "Oppo A31 (Mystery Black, 6GB RAM, 128GB Storage) with No Cost EMI/Additional Exchange Offers"
+      },
+      {
+          "id": 4, "image_address": "https://m.media-amazon.com/images/I/71A9Vo1BatL._AC_UY218_.jpg", "rate": "8,799", "description": "Oppo A31 (Mystery Black, 6GB RAM, 128GB Storage) with No Cost EMI/Additional Exchange Offers"
+      },
+      {
+          "id": 5, "image_address": "https://m.media-amazon.com/images/I/71A9Vo1BatL._AC_UY218_.jpg", "rate": "10,999", "description": "Oppo A31 (Mystery Black, 6GB RAM, 128GB Storage) with No Cost EMI/Additional Exchange Offers"
+      },
+      {
+          "id": 6, "image_address": "https://m.media-amazon.com/images/I/71KCwNV6MuL._AC_UY218_.jpg", "rate": "11,990", "description": "Oppo A31 (Mystery Black, 6GB RAM, 128GB Storage) with No Cost EMI/Additional Exchange Offers"
+      },
+      {
+          "id": 7, "image_address": "https://m.media-amazon.com/images/I/71-Su4Wr0HL._AC_UY218_.jpg", "rate": "11,990", "description": "Oppo A31 (Mystery Black, 6GB RAM, 128GB Storage) with No Cost EMI/Additional Exchange Offers"
+      }, 
+      {
+          "id": 8, "image_address": "https://m.media-amazon.com/images/I/71-Su4Wr0HL._AC_UY218_.jpg", "rate": "16,499", "description": "Oppo A31 (Mystery Black, 6GB RAM, 128GB Storage) with No Cost EMI/Additional Exchange Offers"
+      }, 
+      {
+          "id": 9, "image_address": "https://m.media-amazon.com/images/I/71Lx9l3NivL._AC_UY218_.jpg", "rate": "29,999", "description": "Oppo A31 (Mystery Black, 6GB RAM, 128GB Storage) with No Cost EMI/Additional Exchange Offers"
+      },
+      {
+          "id": 10, "image_address": "https://m.media-amazon.com/images/I/41QsvcpKaZL._AC_UY218_.jpg", "rate": "5,004", "description":"Oppo A31 (Mystery Black, 6GB RAM, 128GB Storage) with No Cost EMI/Additional Exchange Offers"
+      },
+      {
+          "id": 11, "image_address": "https://m.media-amazon.com/images/I/71wkpcIfqdL._AC_UY218_.jpg", "rate": "9,999", "description":"Oppo A31 (Mystery Black, 6GB RAM, 128GB Storage) with No Cost EMI/Additional Exchange Offers"
+      },
+      {
+          "id": 12, "image_address": "https://m.media-amazon.com/images/I/71crCF+ogwL._AC_UY218_.jpg", "rate": "18,990", "description":"Oppo A31 (Mystery Black, 6GB RAM, 128GB Storage) with No Cost EMI/Additional Exchange Offers"
+      },
+      {
+          "id": 14, "image_address": "https://m.media-amazon.com/images/I/71X5I1cVfbL._AC_UY218_.jpg", "rate":"11,990", "description":"Oppo A31 (Mystery Black, 6GB RAM, 128GB Storage) with No Cost EMI/Additional Exchange Offers"
+      },
+      {
+          "id": 15, "image_address": "https://m.media-amazon.com/images/I/71AYb2AGHXL._AC_UY218_.jpg", "rate":"6,199", "description":"Oppo A31 (Mystery Black, 6GB RAM, 128GB Storage) with No Cost EMI/Additional Exchange Offers"
+      }
+    ],
+    "Televisions": [
+        {
+            "id": 16, "image_address": "https://m.media-amazon.com/images/I/71FutyZQeXL._AC_UY218_.jpg", "rate": "7,899", "description": "eAirtec 61 cms (24 inches) HD Ready LED TV 24DJ (Black) (2020 Model)"
+        },
+        {
+            "id": 17, "image_address": "https://m.media-amazon.com/images/I/81N7bMl70HL._AC_UY218_.jpg", "rate": "14,900", "description":"eAirtec 61 cms (24 inches) HD Ready LED TV 24DJ (Black) (2020 Model)"
+        },
+        {
+            "id": 18, "image_address": "https://m.media-amazon.com/images/I/81nYUryOxUL._AC_UY218_.jpg", "rate": "13,990", "description":"eAirtec 61 cms (24 inches) HD Ready LED TV 24DJ (Black) (2020 Model)"
+        },
+        {
+            "id": 19, "image_address": "https://m.media-amazon.com/images/I/71vJoWfZDLL._AC_UY218_.jpg", "rate": "21,999", "description":"eAirtec 61 cms (24 inches) HD Ready LED TV 24DJ (Black) (2020 Model)"
+        },
+        {
+            "id": 20, "image_address": "https://m.media-amazon.com/images/I/81JFUGl-CHL._AC_UY218_.jpg", "rate": "7,399", "description":"eAirtec 61 cms (24 inches) HD Ready LED TV 24DJ (Black) (2020 Model)"
+        },
+        {
+            "id": 21, "image_address": "https://m.media-amazon.com/images/I/91auveGcURL._AC_UY218_.jpg", "rate": "27,990", "description":"eAirtec 61 cms (24 inches) HD Ready LED TV 24DJ (Black) (2020 Model)"
+        },
+        {
+            "id": 22, "image_address": "https://m.media-amazon.com/images/I/91LzCxOO3fL._AC_UY218_.jpg", "rate": "49,990", "description":"eAirtec 61 cms (24 inches) HD Ready LED TV 24DJ (Black) (2020 Model)"
+        },
+        {
+            "id": 23, "image_address": "https://m.media-amazon.com/images/I/81FjmqtQUjL._AC_UY218_.jpg", "rate": "7,599", "description":"eAirtec 61 cms (24 inches) HD Ready LED TV 24DJ (Black) (2020 Model)"
+        },
+        {
+            "id": 24, "image_address": "https://m.media-amazon.com/images/I/91auveGcURL._AC_UY218_.jpg", "rate": "27,990", "description":"eAirtec 61 cms (24 inches) HD Ready LED TV 24DJ (Black) (2020 Model)"
+        },
+        {
+            "id": 25, "image_address": "https://m.media-amazon.com/images/I/71ka35uD4QL._AC_UY218_.jpg","rate": "25,999", "description":"eAirtec 61 cms (24 inches) HD Ready LED TV 24DJ (Black) (2020 Model)"
+        },
+        {
+            "id": 26, "image_address": "https://m.media-amazon.com/images/I/81lpllAGcBL._AC_UY218_.jpg", "rate": "37,990", "description":"eAirtec 61 cms (24 inches) HD Ready LED TV 24DJ (Black) (2020 Model)"
+        },
+        {
+            "id": 27, "image_address": "https://m.media-amazon.com/images/I/71g6MiOiAVL._AC_UY218_.jpg", "rate": "23,599", "description": "eAirtec 61 cms (24 inches) HD Ready LED TV 24DJ (Black) (2020 Model)"
+        },
+        {
+            "id": 28, "image_address": "https://m.media-amazon.com/images/I/81t2A6uhm4L._AC_UY218_.jpg", "rate": "10,999", "description":"eAirtec 61 cms (24 inches) HD Ready LED TV 24DJ (Black) (2020 Model)"
+        },
+        {
+            "id": 29, "image_address": "https://m.media-amazon.com/images/I/81s3YvXSifL._AC_UY218_.jpg", "rate": "61,999", "description":"eAirtec 61 cms (24 inches) HD Ready LED TV 24DJ (Black) (2020 Model)"
+        },
+        {
+            "id": 30, "image_address": "https://m.media-amazon.com/images/I/81SQ3nSk7rL._AC_UY218_.jpg", "rate": "14,999", "description":"eAirtec 61 cms (24 inches) HD Ready LED TV 24DJ (Black) (2020 Model)"
+        }
+    ],
+    "mixed_products": [
+        {
+            "id": 31, "image_address": "https://m.media-amazon.com/images/I/61+X-QDvdqL._AC_UY218_.jpg", "rate": "3,349", "description": "Maharaja Whiteline Joy Elite Mixer Grinder, 750W, 4 Jars"
+        },
+        {
+            "id": 32, "image_address": "https://m.media-amazon.com/images/I/518OwuNKGaL._AC_UY218_.jpg", "rate": "1,649", "description": "Maharaja Whiteline Joy Elite Mixer Grinder, 750W, 4 Jars"
+        },
+        {
+            "id": 33, "image_address": "https://m.media-amazon.com/images/I/41Ju0uJ0MSL._AC_UY218_.jpg", "rate": "3,090", "description":"Maharaja Whiteline Joy Elite Mixer Grinder, 750W, 4 Jars"
+        },
+        {
+            "id": 34, "image_address": "https://m.media-amazon.com/images/I/518OwuNKGaL._AC_UY218_.jpg", "rate": "1,649", "description":"Maharaja Whiteline Joy Elite Mixer Grinder, 750W, 4 Jars"
+        },
+        {
+            "id": 35, "image_address": "https://m.media-amazon.com/images/I/51h45RXd4SL._AC_UY218_.jpg", "rate": "2,390", "description":"Maharaja Whiteline Joy Elite Mixer Grinder, 750W, 4 Jars"
+        },
+        {
+            "id": 36, "image_address": "https://m.media-amazon.com/images/I/51QmQjHQASL._AC_UY218_.jpg", "rate": "14,490", "description":"Samsung 6.5 kg Fully-Automatic Top Loading Washing Machine (WA65A4002VS/TL, Imperial Silver, Center Jet Technology)"
+        },
+        {
+            "id": 37, "image_address": "https://m.media-amazon.com/images/I/91mRu98fVjL._AC_UY218_.jpg", "rate": "6,790", "description":"Samsung 6.5 kg Fully-Automatic Top Loading Washing Machine (WA65A4002VS/TL, Imperial Silver, Center Jet Technology)"
+        },
+        {
+            "id": 38, "image_address": "https://m.media-amazon.com/images/I/91mRu98fVjL._AC_UY218_.jpg", "rate": "9,299", "description":"Samsung 6.5 kg Fully-Automatic Top Loading Washing Machine (WA65A4002VS/TL, Imperial Silver, Center Jet Technology)"
+        },
+        {
+            "id": 39, "image_address": "https://m.media-amazon.com/images/I/61j25i+2K7L._AC_UY218_.jpg", "rate": "14,740", "description":"Samsung 6.5 kg Fully-Automatic Top Loading Washing Machine (WA65A4002VS/TL, Imperial Silver, Center Jet Technology)"
+        },
+        {
+            "id": 40, "image_address": "https://m.media-amazon.com/images/I/51ynstfSHdL._AC_UY218_.jpg", "rate": "8,390", "description":"Samsung 6.5 kg Fully-Automatic Top Loading Washing Machine (WA65A4002VS/TL, Imperial Silver, Center Jet Technology)"
+        },
+        {
+            "id": 41, "image_address": "https://m.media-amazon.com/images/I/51vvhIN7wpL._AC_UY218_.jpg", "rate": "1,69,990", "description": "Samsung 657 L with Inverter Side-by-Side Refrigerator (RS74T5F01B4/TL)"
+        },
+        {
+            "id": 42, "image_address": "https://m.media-amazon.com/images/I/81XafpoKxjL._AC_UY218_.jpg", "rate": "20,990", "description":"Samsung 657 L with Inverter Side-by-Side Refrigerator (RS74T5F01B4/TL)"
+        },
+        {
+            "id": 43, "image_address": "https://m.media-amazon.com/images/I/71ZxEFPsTFL._AC_UY218_.jpg", "rate": "19,990", "description":"Samsung 657 L with Inverter Side-by-Side Refrigerator (RS74T5F01B4/TL)"
+        },
+        {
+            "id": 44, "image_address": "https://m.media-amazon.com/images/I/81zm2tvUtKL._AC_UY218_.jpg", "rate": "92,990", "description":"Samsung 657 L with Inverter Side-by-Side Refrigerator (RS74T5F01B4/TL)"
+        },
+        {
+            "id": 45, "image_address": "https://m.media-amazon.com/images/I/71SH2ooS9jL._AC_UY218_.jpg", "rate": "90,999", "description":"Samsung 657 L with Inverter Side-by-Side Refrigerator (RS74T5F01B4/TL)"
+        }
+    ],
+    "comments": [
+      { "id": 1, "body": "some comment", "postId": 1 }
+    ],
+    "profile": { "name": "typicode" }
+}
